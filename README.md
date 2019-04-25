@@ -1,2 +1,2 @@
 # venture123
-venture repo
+venture repo for git commands demonstration
